@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A1A,100:0D1117&height=220&section=header&text=DARSHAN%20A&fontSize=60&fontColor=F5A623&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20in%20the%20making&descAlignY=58&descSize=18&descColor=2DD4BF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A1A,100:0D1117&height=220&section=header&text=PREETHAM%20K P&fontSize=60&fontColor=F5A623&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20in%20the%20making&descAlignY=58&descSize=18&descColor=2DD4BF" width="100%"/>
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.E.%20CS-VTU%20%2723%E2%80%9327-1A1A1A?style=for-the-badge&labelColor=0D1117&color=F5A623"/>
+  <img src="https://img.shields.io/badge/B.E.%20AIML-VTU%20%2723%E2%80%9327-1A1A1A?style=for-the-badge&labelColor=0D1117&color=F5A623"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineering-1A1A1A?style=for-the-badge&labelColor=0D1117&color=2DD4BF"/>
   <img src="https://img.shields.io/badge/Building%20in%20Public-180%20Day%20Challenge-1A1A1A?style=for-the-badge&labelColor=0D1117&color=F5A623"/>
 </p>
@@ -17,10 +17,6 @@
 
 </p>
 
-<p align="center">
-📌 <b>180 Days. 3 Posts a Week. Zero Skipped Steps.</b><br/>
-<sub>Learning → Building → Reflecting — on rotation, out loud, on LinkedIn.</sub>
-</p>
 
 <p align="center">
 <p align="center">

@@ -24,7 +24,7 @@
 <p align="center">
 <p align="center">
   <a href="https://www.linkedin.com/in/preethamkp/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=0D1117&color=1A1A1A"/></a>
-  <a href="https://darshanaiml.dev"><img src="https://img.shields.io/badge/Website-Visit-1A1A1A?style=for-the-badge&logo=vercel&logoColor=F5A623&labelColor=0D1117&color=1A1A1A"/></a>
+  <a href="https://my-portfolio-584e.vercel.app"><img src="https://img.shields.io/badge/Website-Visit-1A1A1A?style=for-the-badge&logo=vercel&logoColor=F5A623&labelColor=0D1117&color=1A1A1A"/></a>
   <a href="mailto:preethamkp642@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-1A1A1A?style=for-the-badge&logo=gmail&logoColor=F5A623&labelColor=0D1117&color=1A1A1A"/></a>
 </p>
 </p>

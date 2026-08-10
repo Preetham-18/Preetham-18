@@ -80,12 +80,11 @@
 
 <div align="center">
 
-```
-User: Preetham-18
-Public repos: 5
-Followers: 0
-Created: 2024-12-21T15:48:34Z
-```
+<p align="center">
+	<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Preetham-18&query=public_repos&label=Public%20Repos&color=1A1A1A&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=F5A623" />
+	<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Preetham-18&query=followers&label=Followers&color=1A1A1A&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=2DD4BF" />
+	<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Preetham-18&query=created_at&label=Created&color=1A1A1A&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=F5A623" />
+</p>
 
 </div>
 
@@ -102,7 +101,7 @@ Created: 2024-12-21T15:48:34Z
 
 **Consistency**
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Preetham-18&hide_border=true&background=0D1117&stroke=1A1A1A&ring=F5A623&fire=F5A623&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"/>
+<img src="https://streak-stats.demolab.com/?user=Preetham-18&hide_border=true&background=0D1117&stroke=1A1A1A&ring=F5A623&fire=F5A623&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"/>
 
 </td>
 </tr>

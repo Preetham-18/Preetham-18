@@ -81,8 +81,8 @@
 <div align="center">
 
 <p align="center">
-	<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Preetham-18&query=public_repos&label=Public%20Repos&color=1A1A1A&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=F5A623" />
-	<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Preetham-18&query=followers&label=Followers&color=1A1A1A&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=2DD4BF" />
+	<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Preetham-18&query=public_repos&label=Public%20Repos&color=1A1A1A&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=F5A623&cacheSeconds=300" />
+	<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Preetham-18&query=followers&label=Followers&color=1A1A1A&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=2DD4BF&cacheSeconds=300" />
 	<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Preetham-18&query=created_at&label=Created&color=1A1A1A&labelColor=0D1117&style=for-the-badge&logo=github&logoColor=F5A623" />
 </p>
 
@@ -94,7 +94,7 @@
 
 **Snapshot**
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Preetham-18&show_icons=true&hide_border=true&hide=contribs&bg_color=0D1117&title_color=F5A623&icon_color=2DD4BF&text_color=C9D1D9&ring_color=2DD4BF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Preetham-18&show_icons=true&hide_border=true&hide=contribs&bg_color=0D1117&title_color=F5A623&icon_color=2DD4BF&text_color=C9D1D9&ring_color=2DD4BF&include_all_commits=true&count_private=true&cache_seconds=300"/>
 
 </td>
 <td valign="top">

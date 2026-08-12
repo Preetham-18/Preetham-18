@@ -99,15 +99,6 @@
 
 </td>
 
-<td valign="top">
-
-**Consistency**
-<br/>
-
-<img src="./profile/streak.svg" alt="GitHub Streak"/>
-
-</td>
-
 </tr>
 </table>
 

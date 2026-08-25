@@ -57,7 +57,7 @@
 
 <p align="center"><sub>DSA & System Design run in parallel throughout.</sub></p>
 
-> (Learning → Building → Reflecting, on rotation).
+> (Learning → Building → Reflecting, on rotation). 
 
 ---
 

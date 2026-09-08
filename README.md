@@ -1,4 +1,4 @@
-<div align="center">    
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A1A,100:0D1117&height=220&section=header&text=PREETHAM%20KP&fontSize=60&fontColor=F5A623&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20in%20the%20making&descAlignY=58&descSize=18&descColor=2DD4BF" width="100%"/>
 
@@ -56,7 +56,7 @@
 
 <p align="center"><sub>DSA & System Design run in parallel throughout.</sub></p>
 
-> (Learning → Building → Reflecting, on rotation). 
+> (Learning → Building → Reflecting, on rotation).
 
 ---
 
@@ -86,3 +86,24 @@
 </p>
 
 </div>
+
+<table align="center">
+<tr>
+<td valign="top">
+
+**Snapshot**
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Preetham-18&show_icons=true&hide_border=true&hide=contribs&bg_color=0D1117&title_color=F5A623&icon_color=2DD4BF&text_color=C9D1D9&ring_color=2DD4BF&include_all_commits=true&count_private=true&cache_seconds=300"/>
+
+</td>
+<td valign="top">
+
+*Consistency*
+<br/>
+<img src="https://streak-stats.demolab.com/?user=Preetham-18&hide_border=true&background=0D1117&stroke=1A1A1A&ring=F5A623&fire=F5A623&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">

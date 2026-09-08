@@ -42,7 +42,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-80%25-F5A623?style=for-the-badge&labelColor=1A1A1A"/><br/>
   <img src="https://img.shields.io/badge/SQL-60%25-2DD4BF?style=for-the-badge&labelColor=1A1A1A"/><br/>
-  <img src="https://img.shields.io/badge/Linux%20%2F%20CLI-70%25-F5A623?style=for-the-badge&labelColor=1A1A1A"/><br/>
   <img src="https://img.shields.io/badge/Git-80%25-2DD4BF?style=for-the-badge&labelColor=1A1A1A"/><br/>
 </p>
 </p>
